@@ -1,0 +1,5 @@
+2022-07-09 10:02:38.635  INFO 932 --- [restartedMain] c.b.s.SpringJpaEntityMapApplication      : Starting SpringJpaEntityMapApplication using Java 1.8.0_301 on DESKTOP-RFK6RG2 with PID 932 (D:\workplace\SpringJpaEntityMap\target\classes started by com in D:\workplace\SpringJpaEntityMap)
+2022-07-09 10:02:38.668 DEBUG 932 --- [restartedMain] c.b.s.SpringJpaEntityMapApplication      : Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-07-09 10:02:38.673  INFO 932 --- [restartedMain] c.b.s.SpringJpaEntityMapApplication      : No active profile set, falling back to 1 default profile: "default"
+2022-07-09 10:03:09.658  WARN 932 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-07-09 10:03:12.549  INFO 932 --- [restartedMain] c.b.s.SpringJpaEntityMapApplication      : Started SpringJpaEntityMapApplication in 35.865 seconds (JVM running for 39.798)
